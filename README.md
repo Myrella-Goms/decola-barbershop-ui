@@ -11,7 +11,5 @@ O projeto seguinte faz parte de uma aplicação fullstack que visou desenvolver 
 
 ## Imagens do projeto
 
-<img src="">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://github.com/Myrella-Goms/desafio-barbershop-ui-decolatech2025/blob/main/Captura%20de%20tela%202025-03-09%20172217.png">
+<img src="https://github.com/Myrella-Goms/desafio-barbershop-ui-decolatech2025/blob/main/Captura%20de%20tela%202025-03-09%20172257.png">
