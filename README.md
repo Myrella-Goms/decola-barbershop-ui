@@ -8,3 +8,10 @@ O projeto seguinte faz parte de uma aplicação fullstack que visou desenvolver 
     <img src="https://skillicons.dev/icons?i=html,css,typescript,angular" />
   </a>
 </p>
+
+## Imagens do projeto
+
+<img src="">
+<img src="">
+<img src="">
+<img src="">
